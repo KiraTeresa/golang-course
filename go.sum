@@ -2,3 +2,5 @@ github.com/KiraTeresa/dog v0.0.0-20251009055154-d61d1c8cba8f h1:pKPir51Dg0o2SEWt
 github.com/KiraTeresa/dog v0.0.0-20251009055154-d61d1c8cba8f/go.mod h1:EolzUNdphhGY9Gu3iclZ2dxxkILZorEw7IbbmUwqT6c=
 github.com/KiraTeresa/puppy v0.0.0-20251009055758-d51ffe07881b h1:ucXqV/AC8WPiQk/at79NrXKmZvVSWmXAxzGSNvpoeWU=
 github.com/KiraTeresa/puppy v0.0.0-20251009055758-d51ffe07881b/go.mod h1:/xCkfhCQL2QskIeGDv/ioLeJZTdTgqEDbKNnqux6DKs=
+github.com/KiraTeresa/puppy v1.0.1 h1:+nPZeQ2gJD9zc6gSwaCWEArRYmUK55RBKCHgktpaZgo=
+github.com/KiraTeresa/puppy v1.0.1/go.mod h1:/xCkfhCQL2QskIeGDv/ioLeJZTdTgqEDbKNnqux6DKs=
