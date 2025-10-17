@@ -1,10 +1,8 @@
-github.com/KiraTeresa/dog v0.0.0-20251009055154-d61d1c8cba8f h1:pKPir51Dg0o2SEWt3KSb5F1R9y40UjcsAYb8rEXNHEY=
-github.com/KiraTeresa/dog v0.0.0-20251009055154-d61d1c8cba8f/go.mod h1:EolzUNdphhGY9Gu3iclZ2dxxkILZorEw7IbbmUwqT6c=
 github.com/KiraTeresa/dog v1.0.0 h1:+Xw1zZyviu3gYwRhtuIz857cTfV7fFvysCkuHJTQArI=
 github.com/KiraTeresa/dog v1.0.0/go.mod h1:EolzUNdphhGY9Gu3iclZ2dxxkILZorEw7IbbmUwqT6c=
-github.com/KiraTeresa/puppy v0.0.0-20251009055758-d51ffe07881b h1:ucXqV/AC8WPiQk/at79NrXKmZvVSWmXAxzGSNvpoeWU=
-github.com/KiraTeresa/puppy v0.0.0-20251009055758-d51ffe07881b/go.mod h1:/xCkfhCQL2QskIeGDv/ioLeJZTdTgqEDbKNnqux6DKs=
-github.com/KiraTeresa/puppy v1.0.1 h1:+nPZeQ2gJD9zc6gSwaCWEArRYmUK55RBKCHgktpaZgo=
-github.com/KiraTeresa/puppy v1.0.1/go.mod h1:/xCkfhCQL2QskIeGDv/ioLeJZTdTgqEDbKNnqux6DKs=
+github.com/KiraTeresa/dog v1.1.0 h1:sr2bOcqDe+guCvX22An+jxsg51MD2yXK9RRq6mck7Es=
+github.com/KiraTeresa/dog v1.1.0/go.mod h1:EolzUNdphhGY9Gu3iclZ2dxxkILZorEw7IbbmUwqT6c=
 github.com/KiraTeresa/puppy v1.1.0 h1:L8rb1wBR2ZMsAUt2MdWt87lpGpqT0FHj5TfVCSQalls=
 github.com/KiraTeresa/puppy v1.1.0/go.mod h1:JJS40Kg9wYRnEg2UXMmcBz2SYnQVLUJnNB7nPhaQIGs=
+github.com/KiraTeresa/puppy v1.2.0 h1:BE6Ol2QqhEA4RAPU4ynPDVCW5VPzQYcId6WSqIW3l6Q=
+github.com/KiraTeresa/puppy v1.2.0/go.mod h1:xbA/lBOn2R+t4o+2xxF5+jgAQC2eKA2c3AgqGv7Stzw=
