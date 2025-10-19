@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	puppy.From13()
+	//puppy.From13()
 	z := dog.WhenGrownUp(puppy.Barks())
 
 	fmt.Println(z)
