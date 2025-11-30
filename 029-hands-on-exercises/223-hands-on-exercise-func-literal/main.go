@@ -1,0 +1,28 @@
+package main
+
+import (
+	"fmt"
+)
+
+/*
+*
+get this code working:
+- using func literal, aka, anonymous self-executing func
+
+	func main() {
+		c := make(chan int)
+
+		c <- 42
+
+		fmt.Println(<-c)
+	}
+*/
+func main() {
+	c := make(chan int)
+
+	go func() {
+		c <- 42
+	}()
+
+	fmt.Println(<-c)
+}
