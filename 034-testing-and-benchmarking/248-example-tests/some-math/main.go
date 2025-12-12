@@ -1,5 +1,5 @@
-// Package someMath provides functions to run simple mathematics equations
-package someMath
+// Package somemath provides functions to run simple mathematics equations
+package somemath
 
 // Sum adds an unlimited number of values of type int
 func Sum(n ...int) int {

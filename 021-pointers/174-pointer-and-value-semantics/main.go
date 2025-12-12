@@ -18,7 +18,7 @@ func addOne(v int) int {
 - passing in a pointer to an int
 */
 func addOneP(v *int) {
-	*v += 1
+	*v++
 }
 
 func main() {
